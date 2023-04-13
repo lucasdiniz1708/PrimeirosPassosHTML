@@ -1,1 +1,0 @@
-Realizei essas três paginas para explorar e aprofundar meus primeiros conhecimentos em HTML, nesses arquivos tem algumas funcionalidades basicas HTML

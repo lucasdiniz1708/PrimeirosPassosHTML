@@ -1,0 +1,31 @@
+table{
+    width:100%
+}
+
+table caption {         
+    font-weight:bolder;                  
+    font-size: 30px;
+}
+th{
+    background-color: gray;
+    color: white
+
+}
+td {
+    background-color:azure;
+}
+
+#conteudo{
+    width: 70%;
+    background-color: blanchedalmond;
+    float:left;
+
+}
+#menu_contexto{
+    width: 30%;                           // largura de 30%
+    background-color: lightblue;                // cor de fundo
+    float: left;                             //Define a posição em relação aos irmaos em layout mais a esquerda 
+}
+#rodape{
+    clear:both;            // Indica que o elemento não deve flutuar nem a esquerda nem a direita
+}
